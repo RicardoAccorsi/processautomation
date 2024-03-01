@@ -1,7 +1,7 @@
 # Automation of Indicators
 
 ### Objective: 
-This project aimed to automate a computer-based process involving the calculation and dissemination of key performance indicators (KPIs) for a chain of clothing stores across Brazil.
+This project aimed to automate a computer-based process involving the calculation and dissemination of key performance indicators (KPIs) for a chain of ficticious clothing stores across Brazil.
 
 ### Description:
 
